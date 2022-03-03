@@ -1,1 +1,2 @@
 HELLO ALL 
+Hello friends 
