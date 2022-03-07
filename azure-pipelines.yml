@@ -5,6 +5,9 @@
 
 trigger:
 - DEV
+- QUAL
+- CERT
+- PROD
 
 pool:
   vmImage: ubuntu-latest
